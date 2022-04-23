@@ -6,6 +6,9 @@ Simulate a dice game between 2 players, announcing the winner (or draw).
 
 The numbers are randomly generated everytime the page loads. There's a button to reload the page.
 
+### Project Deployment
+You can see the project deployed [here](https://preis8.github.io/Dice-Game/).
+
 ## Code Objectives
 
 As a beginner, to practice JavaScript:
