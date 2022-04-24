@@ -17,6 +17,8 @@ As a beginner, to practice JavaScript:
 - Functions;
 - if / else / switch;
 
+**Please note:** I'm aware that this is *not* the shortest solution, however I solved the problem this way to force myself to write more code.
+
 ## Credits and Context
 
 The project was made under the course [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/), on Udemy. All images and the page html and css files were already provided.
